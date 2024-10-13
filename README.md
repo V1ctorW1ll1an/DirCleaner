@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/V1ctorW1ll1an/desktopCleaner/blob/main/assets/img.webp" alt="Desktop File Manager" width="400"/>
+</p>
+--
+
 # Desktop File Manager
 
 Este projeto foi criado com o propósito de aprender a trabalhar com manipulação de arquivos no Python. Ele permite listar e excluir arquivos e pastas de um diretório especificado, fornecendo uma interface simples para essas operações.
