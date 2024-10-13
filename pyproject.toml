@@ -1,0 +1,7 @@
+[project]
+name = "desktopcleaner"
+version = "0.1.0"
+description = "Este projeto foi criado com o propósito de aprender a trabalhar com manipulação de arquivos no Python. Ele permite listar e excluir arquivos e pastas de um diretório especificado, fornecendo uma interface simples para essas operações."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
