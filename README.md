@@ -27,7 +27,7 @@ O projeto foi desenvolvido para aprender a utilizar:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/desktopcleaner.git
+git clone git@github.com:V1ctorW1ll1an/desktopCleaner.git
 cd desktopcleaner
 ```
 
