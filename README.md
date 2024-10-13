@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/V1ctorW1ll1an/desktopCleaner/blob/main/assets/img.webp" alt="Desktop File Manager" width="400"/>
 </p>
---
+
 
 # Desktop File Manager
 
