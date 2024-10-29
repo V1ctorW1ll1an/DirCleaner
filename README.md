@@ -3,7 +3,7 @@
 </p>
 
 
-# Desktop File Manager
+# Dir File Manager
 
 Este projeto foi criado com o propósito de aprender a trabalhar com manipulação de arquivos no Python. Ele permite listar e excluir arquivos e pastas de um diretório especificado, fornecendo uma interface simples para essas operações.
 
@@ -27,8 +27,8 @@ O projeto foi desenvolvido para aprender a utilizar:
 ### 1. Clonar o repositório
 
 ```bash
-git clone git@github.com:V1ctorW1ll1an/desktopCleaner.git
-cd desktopcleaner
+git clone git@github.com:V1ctorW1ll1an/DirpCleaner.git
+cd Dircleaner
 ```
 
 ### 2. Criar o ambiente virtual
